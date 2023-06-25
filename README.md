@@ -1,1 +1,1 @@
-# dbprograms2023
+# Internship Assignment 1: Structural Database
