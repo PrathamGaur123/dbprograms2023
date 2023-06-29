@@ -1,1 +1,1 @@
-# Internship Assignment 1: Structural Database
+# Internship Assignment 1: Structural Database (MySQL)
